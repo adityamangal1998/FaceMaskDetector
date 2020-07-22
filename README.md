@@ -1,1 +1,1 @@
-# FaceMaskDetector
+# FaceMask and SocialDistancing Detector
